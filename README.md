@@ -1,2 +1,2 @@
 # LicensePlateRecognition
-This is my training ground for working with PyTorch, utilizing supervised learning and image preprocessing with OpenCV. I will be using Flask API and Tailwind for web development.
+License plate recognition can work on both mobile and desktop platforms. With the use of Kivy, PyTorch, and the latest model of YOLOv8, you can extract features from the license plate.
