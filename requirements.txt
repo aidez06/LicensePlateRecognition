@@ -1,0 +1,4 @@
+Kivy==2.3.0
+Kivy_examples==2.3.0
+opencv_python==4.9.0.80
+ultralytics==8.1.45
